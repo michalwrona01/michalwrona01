@@ -2,4 +2,4 @@
 - 📖 I study Computer Science at the Politechnika Rzeszow University of Technology.
 - 👀 I’m interested in Python, creating web applications and databases.
 - 🌱 I’m currently learning Python, Django, SQL.
-- 📫 How to reach me, e-mail wronamichal01@gmail.com
+- 📫 How to reach me, e-mail: kontakt@wronamichal.pl
